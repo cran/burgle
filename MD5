@@ -1,0 +1,13 @@
+2ff72a5c654ecd19c9563e935db98915 *DESCRIPTION
+10119c3b2975e781e610ab73eedd01b3 *LICENSE
+16732cd679a470f5b0d93d3788f4babd *NAMESPACE
+02c0394d410bf2ceaf0661f74164e499 *NEWS.md
+01abbfe8d4453f1a5128871e9f4e5432 *R/burgle.R
+bb416710166c2133da2fea74e3d7ab95 *R/burgle_flexsurv.R
+ca16db5abebbbd62d1bbc22c236c148c *R/burgle_lm.R
+78681a64ba1a26647303a67a8ab6fb10 *R/burgle_survival.R
+3eb6b13f8b63e23a14f55a9b99ed3eb7 *R/predict_burgle.R
+4a82180c6092ecaa8dac902d9300c752 *R/prep_burgle.R
+dfc1bb68fad05a3bee604ced02fa97d7 *README.md
+0e02b2b1787c2f9a636304a12a03ff77 *man/burgle_.Rd
+7e2584c3050c5d9fbe0a2c6487c0e966 *man/predict_burgle.Rd
